@@ -2,10 +2,10 @@
 
 
 
-<table>
+<table style="border: none;">
 <tr>
-<td><img src="logo.png" width="300"></td>
-<td><strong style="font-size: 30px;">Welcome to the BRAID website</strong></td>
+<td "border: none;"><img src="logo.png" width="300"></td>
+<td "border: none;"></td><strong style="font-size: 50px;">Welcome to the BRAID website</strong></td>
 </tr>
 </table>
 
