@@ -11,6 +11,19 @@
 
 ## 
 
+<table border="0">
+<tr>
+<td border="0">
+  <img src="logo.png" width="120">
+</td>
+<td style="border: none;">
+  <div style="font-size: 18px;">Your text goes here. This will be next to the image with no visible borders.</div>
+</td>
+</tr>
+</table>
+
+
+
 **BRAID** is a department within Genentech dedicated to advancing biological and clinical sciences through artificial intelligence. Our core focus is on developing foundation models—general-purpose AI models trained on large-scale biological datasets—which we fine-tune for specialized applications. Our research spans multiple areas, with key focuses including:
 
 - **High-throughput perturbative screening** for target identification and drug discovery, utilizing technologies such as cell painting, Perturb-seq, and optical pooled screens.
