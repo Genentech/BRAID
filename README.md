@@ -18,7 +18,7 @@ At BRAID, we not only develop cutting-edge AI tools but also actively use them t
 
 ## Our Software
 
-[**gReLU**][https://github.com/Genentech/gReLU] : Train, interpret, and apply deep learning models to DNA sequences
+[**gReLU**](https://github.com/Genentech/gReLU): Train, interpret, and apply deep learning models to DNA sequences
 
-[**SCimilarity**][https://github.com/Genentech/scimilarity] : Unifying representation of single cell expression profiles
+[**SCimilarity**](https://github.com/Genentech/scimilarity) : Unifying representation of single cell expression profiles
 
