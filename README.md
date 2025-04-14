@@ -2,7 +2,7 @@
 
 
 
-<p align="left">
+<p align="center">
   <img src="logo.png" alt="Cute Cat" width="400">
 </p>
 
