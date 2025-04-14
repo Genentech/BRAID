@@ -2,27 +2,13 @@
 
 
 
-<table style="border: none;">
-<tr>
-<td "border: none;"><img src="logo.png" width="300"></td>
-<td "border: none;"><strong style="font-size: 50px;">Welcome to the BRAID website</strong></td>
-</tr>
-</table>
-
-## 
-
-<table border="0">
-<tr>
-<td border="0">
-  <img src="logo.png" width="120">
-</td>
-<td style="border: none;">
-  <div style="font-size: 18px;">Your text goes here. This will be next to the image with no visible borders.</div>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="logo.png" alt="Cute Cat" width="500">
+</p>
 
 
+
+# Welcome to the BRAID webpage
 
 **BRAID** is a department within Genentech dedicated to advancing biological and clinical sciences through artificial intelligence. Our core focus is on developing foundation models—general-purpose AI models trained on large-scale biological datasets—which we fine-tune for specialized applications. Our research spans multiple areas, with key focuses including:
 
@@ -35,4 +21,3 @@
 
 At BRAID, we not only develop cutting-edge AI tools but also actively use them to advance scientific discovery. Additionally, all our tools are made available to the scientific community through the links on this site. We always welcome feedback—feel free to contact Tommaso at [biancalt@gene.com](mailto:biancalt@gene.com) with any input or suggestions.
 
-## 
