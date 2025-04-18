@@ -22,3 +22,9 @@ At BRAID, we not only develop cutting-edge AI tools but also actively use them t
 
 [**SCimilarity**](https://github.com/Genentech/scimilarity) : Unifying representation of single cell expression profiles
 
+[**VCI**](https://github.com/yulun-rayn/variational-causal-inference): Estimating individual counterfactual treatment effects 
+
+[**Tangram**](https://github.com/broadinstitute/Tangram): Spatial alignment of single cell and spatial transcriptomics 
+
+[**OCTCube**](https://github.com/ZucksLiu/OCTCubeM): An ophtalmology foundation model for OCT images 
+
