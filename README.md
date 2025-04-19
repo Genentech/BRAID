@@ -22,6 +22,8 @@ At BRAID, we not only develop cutting-edge AI tools but also actively use them t
 
 [**SCimilarity**](https://github.com/Genentech/scimilarity) : Unifying representation of single cell expression profiles
 
+[**Decima**](https://github.com/Genentech/decima): DNA sequence models on single-cell RNA-seq data
+
 [**VCI**](https://github.com/yulun-rayn/variational-causal-inference): Estimating individual counterfactual treatment effects 
 
 [**Tangram**](https://github.com/broadinstitute/Tangram): Spatial alignment of single cell and spatial transcriptomics 
@@ -41,3 +43,13 @@ At BRAID, we not only develop cutting-edge AI tools but also actively use them t
 [**MolCap-Arena**](https://github.com/Genentech/molcap-arena): Benchmark on language-enhanced molecular property prediction
 
 [**PaSCient**](https://github.com/genentech/pascient): Multi-cellular representations of single-cell transcriptomics data
+
+[**Polygraph**](https://github.com/Genentech/polygraph): Evaluation and comaprison of nucleic acid sequences for regulatory element design
+
+[**regLM**](https://github.com/Genentech/regLM): hyenaDNA-based autoregressive language models on DNA for generation of novel regulatory elements
+
+[**CellArr**](https://github.com/CellArr/cellarr): TileDB-backed store for large collections of genomic experimental data
+
+[**MiloDE**](https://github.com/MarioniLab/miloDE): Sensitive DE testing using cell neighborhoods
+
+
