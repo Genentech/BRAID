@@ -56,6 +56,8 @@ At BRAID, we not only develop cutting-edge AI tools but also actively use them t
 
 [**Pegasus**](https://github.com/lilab-bcb/pegasus): A scalable and efficient tool for analyzing transcriptomes of millions of single cells
 
+[**Cirrocumulus**](https://github.com/lilab-bcb/cirrocumulus): An interactive visualization tool for large-scale single-cell genomics data
+
 [**Harmony-PyTorch**](https://github.com/lilab-bcb/harmony-pytorch): An efficient PyTorch implementation of Harmony algorithm, used for data integration and batch correction
 
 [**NMF-Torch**](https://github.com/lilab-bcb/nmf-torch): An efficient PyTorch implementation of Non-negative Matrix Factorization (NMF) and integrative NMF (iNMF) algorithms, used for gene program analysis and batch correction
