@@ -28,7 +28,7 @@ At BRAID, we not only develop cutting-edge AI tools but also actively use them t
 
 [**Tangram**](https://github.com/broadinstitute/Tangram): Spatial alignment of single cell and spatial transcriptomics
 
-[**OCTCube**](https://github.com/ZucksLiu/OCTCubeM): An ophtalmology foundation model for OCT images
+[**OCTCube**](https://github.com/ZucksLiu/OCTCubeM): An ophthalmology foundation model for OCT images
 
 [**BwR**](https://github.com/Genentech/bandwidth-graph-generation): Efficient and expressive graph generative modeling
 
