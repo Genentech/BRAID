@@ -26,8 +26,6 @@ At BRAID, we not only develop cutting-edge AI tools but also actively use them t
 
 [**VCI**](https://github.com/yulun-rayn/variational-causal-inference): Estimating individual counterfactual treatment effects
 
-[**Tangram**](https://github.com/broadinstitute/Tangram): Spatial alignment of single cell and spatial transcriptomics
-
 [**OCTCube**](https://github.com/ZucksLiu/OCTCubeM): An ophthalmology foundation model for OCT images
 
 [**BwR**](https://github.com/Genentech/bandwidth-graph-generation): Efficient and expressive graph generative modeling
@@ -50,6 +48,11 @@ At BRAID, we not only develop cutting-edge AI tools but also actively use them t
 
 [**CellArr**](https://github.com/CellArr/cellarr): TileDB-backed store for large collections of genomic experimental data
 
+
+## Prior software from current BRAID team members
+
+[**Tangram**](https://github.com/broadinstitute/Tangram): Spatial alignment of single cell and spatial transcriptomics
+
 [**MiloDE**](https://github.com/MarioniLab/miloDE): Sensitive DE testing using cell neighborhoods
 
 [**Cumulus**](https://github.com/lilab-bcb/cumulus): A series of Cloud-based scalable and efficient single-cell genomics data analysis workflows
@@ -61,3 +64,4 @@ At BRAID, we not only develop cutting-edge AI tools but also actively use them t
 [**Harmony-PyTorch**](https://github.com/lilab-bcb/harmony-pytorch): An efficient PyTorch implementation of Harmony algorithm, used for data integration and batch correction
 
 [**NMF-Torch**](https://github.com/lilab-bcb/nmf-torch): An efficient PyTorch implementation of Non-negative Matrix Factorization (NMF) and integrative NMF (iNMF) algorithms, used for gene program analysis and batch correction
+
