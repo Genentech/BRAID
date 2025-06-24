@@ -16,13 +16,39 @@ At BRAID, we not only develop cutting-edge AI tools but also actively use them t
 
 
 
-## Our Software
+# Our Software
 
-[**gReLU**](https://github.com/Genentech/gReLU): Train, interpret, and apply deep learning models to DNA sequences
+
+
+## Foundation Models for Transcriptomics
 
 [**SCimilarity**](https://github.com/Genentech/scimilarity) : Unifying representation of single cell expression profiles
 
+[**PaSCient**](https://github.com/genentech/pascient): Multi-cellular representations of single-cell transcriptomics data
+
+
+
+## DNA/RNA Sequence2Function  
+
+[**gReLU**](https://github.com/Genentech/gReLU): Train, interpret, and apply deep learning models to DNA sequences
+
 [**Decima**](https://github.com/Genentech/decima): DNA sequence models on single-cell RNA-seq data
+
+[**Polygraph**](https://github.com/Genentech/polygraph): Evaluation and comaprison of nucleic acid sequences for regulatory element design
+
+[**regLM**](https://github.com/Genentech/regLM): hyenaDNA-based autoregressive language models on DNA for generation of novel regulatory elements
+
+[**ARGMINN**](https://github.com/Genentech/ARGMINN): Mechanistically interpretable neural network for regulatory genomics
+
+
+
+## Virtual Screens / Drug discovery
+
+[**MolCap-Arena**](https://github.com/Genentech/molcap-arena): Benchmark on language-enhanced molecular property prediction
+
+
+
+## Foundational Machine Learning
 
 [**VCI**](https://github.com/yulun-rayn/variational-causal-inference): Estimating individual counterfactual treatment effects
 
@@ -32,21 +58,12 @@ At BRAID, we not only develop cutting-edge AI tools but also actively use them t
 
 [**GraphGUIDE**](https://github.com/Genentech/GraphGUIDE): Interpretable and controllable conditional graph generation
 
-[**ARGMINN**](https://github.com/Genentech/ARGMINN): Mechanistically interpretable neural network for regulatory genomics
-
 [**SPICE**](https://github.com/ndiamant/spice): Uncertainty estimation via conformal prediction for deep learning models
 
 [**CTRL**](https://github.com/zhaoyl18/CTRL): RL-based conditional control for diffusion models
 
-[**MolCap-Arena**](https://github.com/Genentech/molcap-arena): Benchmark on language-enhanced molecular property prediction
-
-[**PaSCient**](https://github.com/genentech/pascient): Multi-cellular representations of single-cell transcriptomics data
-
-[**Polygraph**](https://github.com/Genentech/polygraph): Evaluation and comaprison of nucleic acid sequences for regulatory element design
-
-[**regLM**](https://github.com/Genentech/regLM): hyenaDNA-based autoregressive language models on DNA for generation of novel regulatory elements
-
 [**CellArr**](https://github.com/CellArr/cellarr): TileDB-backed store for large collections of genomic experimental data
+
 
 
 ## Prior software from current BRAID team members
