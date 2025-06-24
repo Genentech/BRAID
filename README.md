@@ -52,8 +52,6 @@ At BRAID, we not only develop cutting-edge AI tools but also actively use them t
 
 [**VCI**](https://github.com/yulun-rayn/variational-causal-inference): Estimating individual counterfactual treatment effects
 
-[**OCTCube**](https://github.com/ZucksLiu/OCTCubeM): An ophthalmology foundation model for OCT images
-
 [**BwR**](https://github.com/Genentech/bandwidth-graph-generation): Efficient and expressive graph generative modeling
 
 [**GraphGUIDE**](https://github.com/Genentech/GraphGUIDE): Interpretable and controllable conditional graph generation
@@ -61,6 +59,10 @@ At BRAID, we not only develop cutting-edge AI tools but also actively use them t
 [**SPICE**](https://github.com/ndiamant/spice): Uncertainty estimation via conformal prediction for deep learning models
 
 [**CTRL**](https://github.com/zhaoyl18/CTRL): RL-based conditional control for diffusion models
+
+
+
+## Others / Tools
 
 [**CellArr**](https://github.com/CellArr/cellarr): TileDB-backed store for large collections of genomic experimental data
 
