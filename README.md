@@ -44,6 +44,8 @@ At BRAID, we not only develop cutting-edge AI tools but also actively use them t
 
 ## Virtual Screens / Drug discovery
 
+[**GNEprop**](https://github.com/Genentech/gneprop): Small molecule property predictor which we used for antibiotic discovery 
+
 [**MolCap-Arena**](https://github.com/Genentech/molcap-arena): Benchmark on language-enhanced molecular property prediction
 
 
