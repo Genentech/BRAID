@@ -86,3 +86,5 @@ At BRAID, we not only develop cutting-edge AI tools but also actively use them t
 
 [**NMF-Torch**](https://github.com/lilab-bcb/nmf-torch): An efficient PyTorch implementation of Non-negative Matrix Factorization (NMF) and integrative NMF (iNMF) algorithms, used for gene program analysis and batch correction
 
+[**TorchDR**](https://github.com/TorchDR/TorchDR): PyTorch implementation of dimensionality reduction methods including UMAP, TSNE and many others.
+
